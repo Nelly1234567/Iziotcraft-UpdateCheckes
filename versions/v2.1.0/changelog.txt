@@ -28,3 +28,4 @@ Added:
 - Player Animator v1.0.2-rc
 - MysticRift: Music v14.1.4
 - So Many Enchantments v1.8.0
+- Better Compatibiliy Checker
