@@ -1,0 +1,30 @@
+IZIOTCRAFT CHANGELOG
+version v2.1.0
+Released January 22, 2024
+
+Updates:
+- Ad Astra from 1.15.9 to 1.15.10
+- Ars Nouveau from 4.8.3 to 4.9.0
+- CreativeCore from 2.11.20 to 2.11.22
+- Curios from 5.4.7 to 5.5.0
+- FTB Library from 2001.1.4 to 2001.1.5
+- Farmers Delight from 1.2.3 to 1.2.4
+- Macaw's Fences and walls from 1.0.7 to 1.1.1
+- Moonlight from 2.8.84 to 2.8.87
+- Supplementaries from 2.7.25 to 2.7.29
+
+Added:
+- Better combat v1.8.0
+- Workshop for handsome adventurer v1.14.7
+- Modpack update checker v0.12.0
+- Lithostitched v1.1.4
+- Just Enought Resources v1.4.0.238
+- Just enough Enmchant Descriptions v2.1.7
+- Immersive paintings v0.6.7
+- Enchantment Reveal
+- EMI Trades v1.2.1
+- Better Ping Display v1.1
+- Better Invisibility v1.0.4
+- Player Animator v1.0.2-rc
+- MysticRift: Music v14.1.4
+- So Many Enchantments v1.8.0
