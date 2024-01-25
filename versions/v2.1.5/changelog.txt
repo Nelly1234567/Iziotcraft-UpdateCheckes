@@ -1,0 +1,16 @@
+IZIOTCRAFT CHANGELOG
+version v2.1.5
+Released January 24, 2024
+
+Updated: 
+- Better Chunk Loading from v2.5 to v3.0
+- Just Enouch Resources (JER) from v1.4.0.238 to v1.4.0.247
+- Moonlight from v2.8.87 to v2.9.3
+- MysticRift Music from ? to ? "UPDATE!"
+- Supplimeteries from v2.7.29 to v2.7.30
+
+Added:
+- Apothisis
+- Apothisis lib
+- Apothisis additions
+- Apothic Curios
