@@ -15,6 +15,7 @@ Added:
 - Apothic additions v1.3.1
 - Apothic Curios v1.0.3
 - Create Stuff & Additions v2.0.4a
+- Effortless Building v3.8
 
 Removed:
 - MDM's Bits and Bobs // Broke too many things and not a great wiki
