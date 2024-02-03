@@ -8,8 +8,6 @@ Added:
 - Quark v4.0-433
 - Quark Oddities
 - Zeta (lib for quark) v1.0-12
-- Lazurite v1.0.2
-- Forgified Fabric API v 0.91.0+1.10.8
 - Sound Physics Remastered 
 
 
