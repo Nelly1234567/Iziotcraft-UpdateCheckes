@@ -1,0 +1,7 @@
+IZIOTCRAFT CHANGELOG
+version v2.2.0
+Released Febuary 3rd, 2024
+
+Added:
+- Security Craft
+- Chunk Loaders
