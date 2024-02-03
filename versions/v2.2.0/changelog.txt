@@ -15,7 +15,7 @@ Updated:
 - ad Astra from 1.15.10 to 1.15.16
 - Ambient Sounds from 5.3.5 to 5.3.8
 - better chunk loading from 3.0 to 3.3
-- The factory Must Grow (tfmg) from 0.5.0c to 0.8.0
+- The factory Must Grow (tfmg) from 0.7.0c to 0.8.0
 - Curios from 5.5.0 to 5.6.1
 - Jade from 11.7.1 to 11.8.0
 - JEI from 15.2.0.27 to 15.3.0.1
@@ -30,3 +30,4 @@ Updated:
 - Yung's api from 4.0.2 to 4.0.3
 - Botarium 2.3.1 to 2.3.2
 - Supplimentaries 2.7.30 to 2.7.33
+- Modern Fix from 5.12.1 to 5.13.0
