@@ -3,8 +3,8 @@ version v2.2.0
 Released Febuary 3rd, 2024
 
 Added:
-- Security Craft
-- Chunk Loaders
+- Security Craft v1.9.8
+- Chunk Loaders v1.2.8a
 - Quark v4.0-433
 - Quark Oddities
 - Zeta (lib for quark) v1.0-12
