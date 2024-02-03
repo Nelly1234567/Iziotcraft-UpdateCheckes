@@ -19,7 +19,6 @@ Updated:
 - Curios from 5.5.0 to 5.6.1
 - Jade from 11.7.1 to 11.8.0
 - JEI from 15.2.0.27 to 15.3.0.1
-- Modern Fix from 5.12.1 to 5.13.0
 - Simply sowrds from 1.51.5 to 1.52.0
 - Small ships from a.2.3.3. to b.1.0
 - The Aether from 1.1.0 to 1.2.0
